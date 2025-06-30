@@ -1,0 +1,12 @@
+"""
+You are a financial coach. Based on the following profile, reason step by step to suggest a suitable investment:
+
+Profile:
+- Age: {age}
+- Income: {income}
+- Goal: {goal}
+- Children: {children}
+- Risk Tolerance: {risk_tolerance}
+
+Step-by-step reasoning:
+"""

@@ -1,0 +1,18 @@
+[
+  {
+    "user": "Should I invest in stocks?",
+    "agent": {
+      "followup": "How old are you? What's your income & savings goal?",
+      "reasoning": "Mid-age, decent income, long-term horizon → moderate risk",
+      "advice": "Consider hybrid mutual funds or blue-chip ETFs."
+    }
+  },
+  {
+    "user": "Is a 7% return good?",
+    "agent": {
+      "followup": "What's your investment horizon and risk appetite?",
+      "reasoning": "7% is above inflation, but depends on risk and goals",
+      "advice": "For long-term, it's reasonable; for high risk, may be low."
+    }
+  }
+] 
