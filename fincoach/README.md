@@ -37,7 +37,7 @@ uvicorn fincoach.main:app --reload
 - Interactive docs: http://127.0.0.1:8000/docs
 
 ## Running the Streamlit UI
-In a new terminal, run:
+In a new terminal, run: 
 ```bash
 streamlit run fincoach/ui/app.py
 ```
